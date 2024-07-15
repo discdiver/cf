@@ -1,4 +1,6 @@
-# ControlFlow Lunch and Learn Instructions
+# ControlFlow lunch and learn instructions
+
+![](controlflow_banner.png)
 
 ## Try [ControlFlow](https://controlflow.ai)
 
