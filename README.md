@@ -2,7 +2,7 @@
 
 ![](controlflow_banner.png)
 
-## Try [ControlFlow](https://controlflow.ai)
+## Get hands-on practice with ControlFlow
 
 If you're already played with it a bit, explore some features you haven't.
 
